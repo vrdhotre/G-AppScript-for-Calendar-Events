@@ -125,7 +125,7 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
+- **Project Maintainer**: [Vaibhav Dhotre](mailto:vrdhotre@live.com)
 - **Issues**: Feel free to open an issue on the repository with the [issue tracker](https://github.com/vrdhotre/G-AppScript-for-Calendar-Events/issues).
 
 ---
