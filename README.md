@@ -146,7 +146,7 @@ Congratulations! You've successfully created a Google Apps Script that adds even
 
 If you have any questions or need further assistance, feel free to reach out or explore the resources above to enhance your understanding.
 
-
+---
 
 # G-AppScript-for-Calendar-Events
 Integrate Google Sheets with Google Calendar for Mapping Events such as Classes timings.
@@ -298,5 +298,3 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 Have you thought about publishing your script as an add-on in the G Suite Marketplace? It could increase your user base and receive feedback from a broader audience.
 
 Also, engaging with communities like [Stack Overflow](https://stackoverflow.com/questions/tagged/google-apps-script) or the [Google Apps Script forum](https://developers.google.com/apps-script/community) can provide valuable insights and help you refine your project further.
-
----
