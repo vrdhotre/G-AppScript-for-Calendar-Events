@@ -266,7 +266,7 @@ Contributions are welcome and greatly appreciated! Here's how you can help:
 
 ## License
 
-This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -284,7 +284,7 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 - **Add Badges**: Include status badges at the top of your README for build status, license, or version. For example:
   ```
-  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
   ```
 
 - **Screenshots/GIFs**: Visuals can significantly enhance understanding. Consider adding screenshots of settings or GIFs demonstrating the script in action.
